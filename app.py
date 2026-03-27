@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "sk_2occrvjc_hWKCUCiDLQDS3LfKGs0UZ5YN"
+API_KEY = "YOUR_API_KEY"  #FROM SARVAM AI
 
 
 def load_context():
